@@ -11,5 +11,6 @@ CREATE TABLE project (
 
  CREATE TABLE user (
    id INTEGER PRIMARY KEY,
-   name and an age
+   name TEXT,
+   age INTEGER
 );
