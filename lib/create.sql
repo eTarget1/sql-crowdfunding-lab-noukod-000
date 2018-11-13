@@ -1,4 +1,4 @@
-CREATE TABLE project (
+CREATE TABLE projects (
   id INTEGER PRIMARY KEY,
    title TEXT,
    category TEXT,
@@ -9,7 +9,7 @@ CREATE TABLE project (
  );
 
 
- CREATE TABLE userS (
+ CREATE TABLE users (
    id INTEGER PRIMARY KEY,
    name TEXT,
    age INTEGER
