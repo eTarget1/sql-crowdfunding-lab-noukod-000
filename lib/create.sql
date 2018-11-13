@@ -14,3 +14,4 @@ CREATE TABLE project (
    name TEXT,
    age INTEGER
 );
+
