@@ -17,6 +17,6 @@ CREATE TABLE project (
 
 CREATE TABLE pledge  (
   id INTEGER PRIMARY KEY,
-  name TEXT,
+  amount INTEGER,
   age INTEGER
 );
